@@ -32,7 +32,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
         {'texto': 'Uno', 'pontuacao': 10},
         {'texto': 'Mustang', 'pontuacao': 5},
         {'texto': 'Ferrari', 'pontuacao': 3},
-        {'texto': 'GOl', 'pontuacao': 1},
+        {'texto': 'Gol', 'pontuacao': 1},
       ],
     }
   ];
